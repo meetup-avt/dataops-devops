@@ -6,6 +6,8 @@ Este repositorio da apoyo a la creación de los distintos sistemas empleados en 
 
 Cualquier duda con los vídeos o los pasos a realizar puedes escribirnos a la lista de distribución de [soporte](mailto:meetup.support@avanttic.com)
 
+La creación de ATP viene de los Labs hechos durante el pasado CodeExplore, revisa el siguiente [enlace github](https://github.com/codeexploremadrid/codeexplore/tree/master/LABS)
+
 ### Creación de usuario
 Creación de tu cuenta cloud enlace a [youtube](https://youtu.be/2Es4pvUKMyA)
 
